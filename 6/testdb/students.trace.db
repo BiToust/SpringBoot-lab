@@ -1,0 +1,24 @@
+2025-10-30 17:48:30.281768+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.age,s1_0.faculty,s1_0.name,s1_0.surname from students s1_0 [42104-232]
+2025-10-30 17:48:39.667760+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.age,s1_0.faculty,s1_0.name,s1_0.surname from students s1_0 [42104-232]
+2025-10-30 17:48:53.753391+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.age,s1_0.faculty,s1_0.name,s1_0.surname from students s1_0 where s1_0.id=? [42104-232]
+2025-10-30 17:49:35.176789+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.age,s1_0.faculty,s1_0.name,s1_0.surname from students s1_0 [42104-232]
+2025-10-30 17:49:52.091860+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.age,s1_0.faculty,s1_0.name,s1_0.surname from students s1_0 where s1_0.id=? [42104-232]
+2025-10-30 17:51:38.391575+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+insert into students (age,faculty,name,surname,id) values (?,?,?,?,default) [42104-232]
+2025-10-30 17:54:42.523365+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.age,s1_0.faculty,s1_0.name,s1_0.surname from students s1_0 where s1_0.id=? [42104-232]
+2025-10-30 17:55:04.293846+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.age,s1_0.faculty,s1_0.name,s1_0.surname from students s1_0 where s1_0.id=? [42104-232]
